@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "lib",
+        "lib": ["ES2015"],
+        "strict": true,
+        "esModuleInterop": true
+    }
+}
