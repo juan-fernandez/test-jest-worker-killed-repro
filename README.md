@@ -10,4 +10,4 @@ npm install
 npm run test
 ```
 
-
+![Screenshot of jest hanging for over a minute.](./screenshots/hanging.png)
